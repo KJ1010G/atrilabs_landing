@@ -1,0 +1,13 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+:root {
+	--base-bg: #000111;
+	--button-border: #494a55;
+}
+
+.navbar {
+	backdrop-filter: blur(10px);
+}
