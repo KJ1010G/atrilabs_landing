@@ -45,5 +45,9 @@
 	"atriConfig": {
 		"id": "9f2f7951-a18b-4557-a3ca-11f3b323de90",
 		"pythonPackageName": "manifests"
+	},
+	"devDependencies": {
+		"@types/lodash": "^4.14.192",
+		"@types/uuid": "^9.0.1"
 	}
 }
