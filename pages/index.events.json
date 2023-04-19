@@ -41246,5 +41246,49 @@
       }
     },
     "id": "94904a90-398a-4dc0-a17a-225c3a9eb2e9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "flexGrow": null
+        }
+      }
+    },
+    "id": "64575b59-375a-4ef6-bca1-d99a5c7dc565"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "alignSelf": "stretch"
+        }
+      }
+    },
+    "id": "64575b59-375a-4ef6-bca1-d99a5c7dc565"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "alignSelf": "auto"
+        }
+      }
+    },
+    "id": "64575b59-375a-4ef6-bca1-d99a5c7dc565"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "flexGrow": 1
+        }
+      }
+    },
+    "id": "64575b59-375a-4ef6-bca1-d99a5c7dc565"
   }
 ]
