@@ -41586,5 +41586,52 @@
       }
     },
     "id": "f1dd8a3e-f59a-471d-a362-1c5a3e95b1f0"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffff"
+        }
+      }
+    },
+    "id": "6500a605-9677-4a0b-853d-5a2413bcd92f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffff"
+        }
+      }
+    },
+    "id": "6500a605-9677-4a0b-853d-5a2413bcd92f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "color": "#ffff"
+        }
+      }
+    },
+    "id": "6500a605-9677-4a0b-853d-5a2413bcd92f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://atrilabs.com"
+        }
+      }
+    },
+    "id": "4d21a2c7-dd70-42c3-b926-346c1e486f10"
   }
 ]

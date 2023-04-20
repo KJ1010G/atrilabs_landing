@@ -3343,5 +3343,19 @@
     "slice": {
       "alias": "navbar"
     }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://atrilabs.com"
+        }
+      }
+    },
+    "id": "d726ee6d-b510-4d90-998b-54016c322b4a"
   }
 ]
