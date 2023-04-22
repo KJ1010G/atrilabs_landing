@@ -41633,5 +41633,33 @@
       }
     },
     "id": "4d21a2c7-dd70-42c3-b926-346c1e486f10"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": ""
+        }
+      }
+    },
+    "id": "4d21a2c7-dd70-42c3-b926-346c1e486f10"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "/"
+        }
+      }
+    },
+    "id": "4d21a2c7-dd70-42c3-b926-346c1e486f10"
   }
 ]

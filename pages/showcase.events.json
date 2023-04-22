@@ -10741,5 +10741,19 @@
       }
     },
     "id": "c936066c-2e15-4dfc-a960-c2d5acef0e9c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "/"
+        }
+      }
+    },
+    "id": "380ec94d-ad8a-4638-a41d-5f5b77c2f32b"
   }
 ]

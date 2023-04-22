@@ -15304,5 +15304,33 @@
       }
     },
     "id": "4f7ce4aa-696b-461c-a73d-0ce3e43ae184"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": ""
+        }
+      }
+    },
+    "id": "d726ee6d-b510-4d90-998b-54016c322b4a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "/"
+        }
+      }
+    },
+    "id": "d726ee6d-b510-4d90-998b-54016c322b4a"
   }
 ]
