@@ -111,7 +111,13 @@ class Page:
 		self.Image19 = state["Image19"] if "Image19" in state else None
 		self.Flex32 = state["Flex32"] if "Flex32" in state else None
 		self.Flex33 = state["Flex33"] if "Flex33" in state else None
-		self.Flex34 = state["Flex34"] if "Flex34" in state else None
+		self.footer = state["footer"] if "footer" in state else None
+		self.Anchor28 = state["Anchor28"] if "Anchor28" in state else None
+		self.Anchor29 = state["Anchor29"] if "Anchor29" in state else None
+		self.Anchor30 = state["Anchor30"] if "Anchor30" in state else None
+		self.Anchor31 = state["Anchor31"] if "Anchor31" in state else None
+		self.Anchor32 = state["Anchor32"] if "Anchor32" in state else None
+		self.Anchor33 = state["Anchor33"] if "Anchor33" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -1017,13 +1023,67 @@ class Page:
 		self._Flex33 = Flex(new_state)
 
 	@property
-	def Flex34(self):
-		self._getter_access_tracker["Flex34"] = {}
-		return self._Flex34
-	@Flex34.setter
-	def Flex34(self, new_state):
-		self._setter_access_tracker["Flex34"] = {}
-		self._Flex34 = Flex(new_state)
+	def footer(self):
+		self._getter_access_tracker["footer"] = {}
+		return self._footer
+	@footer.setter
+	def footer(self, new_state):
+		self._setter_access_tracker["footer"] = {}
+		self._footer = Flex(new_state)
+
+	@property
+	def Anchor28(self):
+		self._getter_access_tracker["Anchor28"] = {}
+		return self._Anchor28
+	@Anchor28.setter
+	def Anchor28(self, new_state):
+		self._setter_access_tracker["Anchor28"] = {}
+		self._Anchor28 = Anchor(new_state)
+
+	@property
+	def Anchor29(self):
+		self._getter_access_tracker["Anchor29"] = {}
+		return self._Anchor29
+	@Anchor29.setter
+	def Anchor29(self, new_state):
+		self._setter_access_tracker["Anchor29"] = {}
+		self._Anchor29 = Anchor(new_state)
+
+	@property
+	def Anchor30(self):
+		self._getter_access_tracker["Anchor30"] = {}
+		return self._Anchor30
+	@Anchor30.setter
+	def Anchor30(self, new_state):
+		self._setter_access_tracker["Anchor30"] = {}
+		self._Anchor30 = Anchor(new_state)
+
+	@property
+	def Anchor31(self):
+		self._getter_access_tracker["Anchor31"] = {}
+		return self._Anchor31
+	@Anchor31.setter
+	def Anchor31(self, new_state):
+		self._setter_access_tracker["Anchor31"] = {}
+		self._Anchor31 = Anchor(new_state)
+
+	@property
+	def Anchor32(self):
+		self._getter_access_tracker["Anchor32"] = {}
+		return self._Anchor32
+	@Anchor32.setter
+	def Anchor32(self, new_state):
+		self._setter_access_tracker["Anchor32"] = {}
+		self._Anchor32 = Anchor(new_state)
+
+	@property
+	def Anchor33(self):
+		self._getter_access_tracker["Anchor33"] = {}
+		return self._Anchor33
+	@Anchor33.setter
+	def Anchor33(self, new_state):
+		self._setter_access_tracker["Anchor33"] = {}
+		self._Anchor33 = Anchor(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -1126,6 +1186,12 @@ class Page:
 			"Image19": self._Image19,
 			"Flex32": self._Flex32,
 			"Flex33": self._Flex33,
-			"Flex34": self._Flex34
+			"footer": self._footer,
+			"Anchor28": self._Anchor28,
+			"Anchor29": self._Anchor29,
+			"Anchor30": self._Anchor30,
+			"Anchor31": self._Anchor31,
+			"Anchor32": self._Anchor32,
+			"Anchor33": self._Anchor33
 			}
   
