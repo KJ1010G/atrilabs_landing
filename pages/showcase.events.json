@@ -11522,5 +11522,83 @@
       }
     },
     "id": "20cc8fc2-fac3-4f3c-ae64-2feedeeac446"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/sports_website/"
+        }
+      }
+    },
+    "id": "ddda1365-406d-4185-90c3-c53a53e77974"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/restaurant_website/"
+        }
+      }
+    },
+    "id": "65bb065f-54de-40fc-a078-c6c3f75a674f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/full_stack_ecommerce_website"
+        }
+      }
+    },
+    "id": "f170b786-d8d5-403e-a9d5-983ae0f30569"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/personal_blog/"
+        }
+      }
+    },
+    "id": "d28fc850-9009-4d45-bef1-1f284b1f396d"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/portfolio-templates/"
+        }
+      }
+    },
+    "id": "20cc8fc2-fac3-4f3c-ae64-2feedeeac446"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_blank",
+          "href": "https://atri-apps.github.io/review_tabular_data/"
+        }
+      }
+    },
+    "id": "4031d88c-7522-4540-a841-6d9012c81fd2"
   }
 ]
