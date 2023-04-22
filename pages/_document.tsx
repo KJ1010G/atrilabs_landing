@@ -6,6 +6,7 @@ export default function Document() {
 	return (
 		<html>
 			<head>
+				<link rel="icon" type="image/x-icon" href="/favicon.ico"></link>
 				<meta
 					name="viewport"
 					content="width=device-width, initial-scale=1"
