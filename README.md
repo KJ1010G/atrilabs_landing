@@ -40,3 +40,17 @@ export default function () {
 	return <CanvasZone id={"main"} />;
 }
 ```
+
+## Build & Deploy
+
+Build steps:
+
+```shell
+yarn build
+```
+
+Deploy steps:
+
+```shell
+PORT=3005 yarn serve
+```
