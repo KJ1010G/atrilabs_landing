@@ -47171,5 +47171,558 @@
   {
     "type": "DELETE$$@atrilabs/app-design-forest/src/componentTree",
     "id": "3dd44daa-5373-4013-8ddb-fdeb6ab282fd"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "<p>The web framework</p>\n<p>to build stunning web apps</p>"
+        }
+      }
+    },
+    "id": "2ff67fb4-7c7a-4eda-ae28-fa4d7e9ee131"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "lineHeight": "2px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "lineHeight": "24px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "lineHeight": "2px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "lineHeight": "28px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "HARDPATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985",
+    "state": {
+      "property": {
+        "styles": {
+          "color": "transparent",
+          "fontFamily": "Sora",
+          "fontWeight": 400,
+          "textAlign": "center",
+          "fontSize": "24px",
+          "lineHeight": "2px",
+          "background": "linear-gradient(90deg, #666666 7%, #ffffff 52%, #666666 88%)",
+          "backgroundClip": "text",
+          "WebkitBackgroundClip": "text"
+        }
+      },
+      "breakpoints": {
+        "600": {
+          "property": {
+            "styles": {
+              "fontSize": "0.6em",
+              "lineHeight": "0.8em"
+            }
+          }
+        },
+        "768": {
+          "property": {
+            "styles": {
+              "fontSize": "16px",
+              "lineHeight": "16px"
+            }
+          }
+        }
+      },
+      "parent": {
+        "id": "c66aa710-3ede-487a-82b7-51074ac0901d",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "HARDPATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985",
+    "state": {
+      "property": {
+        "styles": {
+          "color": "transparent",
+          "fontFamily": "Sora",
+          "fontWeight": 400,
+          "textAlign": "center",
+          "fontSize": "24px",
+          "lineHeight": "24px",
+          "background": "linear-gradient(90deg, #666666 7%, #ffffff 52%, #666666 88%)",
+          "backgroundClip": "text",
+          "WebkitBackgroundClip": "text"
+        }
+      },
+      "breakpoints": {
+        "600": {
+          "property": {
+            "styles": {
+              "fontSize": "0.6em",
+              "lineHeight": "0.8em"
+            }
+          }
+        },
+        "768": {
+          "property": {
+            "styles": {
+              "fontSize": "16px",
+              "lineHeight": "16px"
+            }
+          }
+        }
+      },
+      "parent": {
+        "id": "c66aa710-3ede-487a-82b7-51074ac0901d",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "HARDPATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985",
+    "state": {
+      "property": {
+        "styles": {
+          "color": "transparent",
+          "fontFamily": "Sora",
+          "fontWeight": 400,
+          "textAlign": "center",
+          "fontSize": "24px",
+          "lineHeight": "2px",
+          "background": "linear-gradient(90deg, #666666 7%, #ffffff 52%, #666666 88%)",
+          "backgroundClip": "text",
+          "WebkitBackgroundClip": "text"
+        }
+      },
+      "breakpoints": {
+        "600": {
+          "property": {
+            "styles": {
+              "fontSize": "0.6em",
+              "lineHeight": "0.8em"
+            }
+          }
+        },
+        "768": {
+          "property": {
+            "styles": {
+              "fontSize": "16px",
+              "lineHeight": "16px"
+            }
+          }
+        }
+      },
+      "parent": {
+        "id": "c66aa710-3ede-487a-82b7-51074ac0901d",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "HARDPATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985",
+    "state": {
+      "property": {
+        "styles": {
+          "color": "transparent",
+          "fontFamily": "Sora",
+          "fontWeight": 400,
+          "textAlign": "center",
+          "fontSize": "24px",
+          "lineHeight": "20px",
+          "background": "linear-gradient(90deg, #666666 7%, #ffffff 52%, #666666 88%)",
+          "backgroundClip": "text",
+          "WebkitBackgroundClip": "text"
+        }
+      },
+      "breakpoints": {
+        "600": {
+          "property": {
+            "styles": {
+              "fontSize": "0.6em",
+              "lineHeight": "0.8em"
+            }
+          }
+        },
+        "768": {
+          "property": {
+            "styles": {
+              "fontSize": "16px",
+              "lineHeight": "16px"
+            }
+          }
+        }
+      },
+      "parent": {
+        "id": "c66aa710-3ede-487a-82b7-51074ac0901d",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "text": "<p>Visually&nbsp;build stunning web apps</p>"
+        }
+      }
+    },
+    "id": "2ff67fb4-7c7a-4eda-ae28-fa4d7e9ee131"
+  },
+  {
+    "type": "HARDPATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "id": "2ff67fb4-7c7a-4eda-ae28-fa4d7e9ee131",
+    "state": {
+      "property": {
+        "custom": {
+          "text": "<p>The web framework</p>\n<p>to build stunning web apps</p>"
+        }
+      },
+      "parent": {
+        "id": "",
+        "index": 0
+      }
+    }
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "1px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/cssTree",
+    "slice": {
+      "property": {
+        "styles": {
+          "paddingBottom": "12px"
+        }
+      }
+    },
+    "id": "a48178e5-9261-47b7-9591-17219ea0f985"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": true
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": true
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": ""
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 1
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 2
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 1
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 0
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 2
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": ""
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 0
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": 0
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": ""
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": ""
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": ""
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": "",
+          "playing": true
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "stopOnUnmount": true,
+          "playbackRate": 1,
+          "progressInterval": 1000,
+          "url": "https://youtu.be/YokMeI23_iw",
+          "controls": false,
+          "previewTabIndex": "",
+          "playing": false
+        }
+      }
+    },
+    "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
   }
 ]
