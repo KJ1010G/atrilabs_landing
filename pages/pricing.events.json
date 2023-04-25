@@ -26104,5 +26104,31 @@
   {
     "type": "DELETE$$@atrilabs/app-design-forest/src/componentTree",
     "id": "a6512d57-855f-42c7-9c30-cad62297c42a"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "href": "mailto:founders@atrilabs.com"
+        }
+      }
+    },
+    "id": "18450c97-7493-4046-b407-47bb732e65eb"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "href": "mailto:founders@atrilabs.com"
+        }
+      }
+    },
+    "id": "68512acf-7557-4f0e-a845-b017e55794d4"
   }
 ]
