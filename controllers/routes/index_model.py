@@ -4,6 +4,7 @@ from atri_react.Image import Image
 from atri_react.TextBox import TextBox
 from atri_react.Anchor import Anchor
 from manifests.DropdownMenu import DropdownMenu
+from atri_react.Video import Video
 
 
   
@@ -119,6 +120,7 @@ class Page:
 		self.TextBox44 = state["TextBox44"] if "TextBox44" in state else None
 		self.Flex45 = state["Flex45"] if "Flex45" in state else None
 		self.Anchor33 = state["Anchor33"] if "Anchor33" in state else None
+		self.HeroVideo = state["HeroVideo"] if "HeroVideo" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -1094,6 +1096,15 @@ class Page:
 	def Anchor33(self, new_state):
 		self._setter_access_tracker["Anchor33"] = {}
 		self._Anchor33 = Anchor(new_state)
+
+	@property
+	def HeroVideo(self):
+		self._getter_access_tracker["HeroVideo"] = {}
+		return self._HeroVideo
+	@HeroVideo.setter
+	def HeroVideo(self, new_state):
+		self._setter_access_tracker["HeroVideo"] = {}
+		self._HeroVideo = Video(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -1203,6 +1214,7 @@ class Page:
 			"Image15": self._Image15,
 			"TextBox44": self._TextBox44,
 			"Flex45": self._Flex45,
-			"Anchor33": self._Anchor33
+			"Anchor33": self._Anchor33,
+			"HeroVideo": self._HeroVideo
 			}
   
