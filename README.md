@@ -4,6 +4,7 @@
 
 ```shell
 yarn install
+yarn build
 ```
 
 ## Usage
