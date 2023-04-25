@@ -24,9 +24,7 @@ class Page:
 		self.Anchor4 = state["Anchor4"] if "Anchor4" in state else None
 		self.Anchor5 = state["Anchor5"] if "Anchor5" in state else None
 		self.Flex2 = state["Flex2"] if "Flex2" in state else None
-		self.TextBox7 = state["TextBox7"] if "TextBox7" in state else None
 		self.DropdownMenu1 = state["DropdownMenu1"] if "DropdownMenu1" in state else None
-		self.Flex3 = state["Flex3"] if "Flex3" in state else None
 		self.TextBox8 = state["TextBox8"] if "TextBox8" in state else None
 		self.TextBox9 = state["TextBox9"] if "TextBox9" in state else None
 		self.TextBox10 = state["TextBox10"] if "TextBox10" in state else None
@@ -34,7 +32,6 @@ class Page:
 		self.TextBox12 = state["TextBox12"] if "TextBox12" in state else None
 		self.Image1 = state["Image1"] if "Image1" in state else None
 		self.Flex4 = state["Flex4"] if "Flex4" in state else None
-		self.Anchor6 = state["Anchor6"] if "Anchor6" in state else None
 		self.Anchor7 = state["Anchor7"] if "Anchor7" in state else None
 		self.Anchor8 = state["Anchor8"] if "Anchor8" in state else None
 		self.Anchor9 = state["Anchor9"] if "Anchor9" in state else None
@@ -173,7 +170,6 @@ class Page:
 		self.TextBox112 = state["TextBox112"] if "TextBox112" in state else None
 		self.Flex70 = state["Flex70"] if "Flex70" in state else None
 		self.TextBox114 = state["TextBox114"] if "TextBox114" in state else None
-		self.Image31 = state["Image31"] if "Image31" in state else None
 		self.Flex72 = state["Flex72"] if "Flex72" in state else None
 		self.TextBox115 = state["TextBox115"] if "TextBox115" in state else None
 		self.Flex73 = state["Flex73"] if "Flex73" in state else None
@@ -182,6 +178,9 @@ class Page:
 		self.TextBox116 = state["TextBox116"] if "TextBox116" in state else None
 		self.Flex75 = state["Flex75"] if "Flex75" in state else None
 		self.Anchor31 = state["Anchor31"] if "Anchor31" in state else None
+		self.TextBox118 = state["TextBox118"] if "TextBox118" in state else None
+		self.Flex77 = state["Flex77"] if "Flex77" in state else None
+		self.Anchor32 = state["Anchor32"] if "Anchor32" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -304,15 +303,6 @@ class Page:
 		self._Flex2 = Flex(new_state)
 
 	@property
-	def TextBox7(self):
-		self._getter_access_tracker["TextBox7"] = {}
-		return self._TextBox7
-	@TextBox7.setter
-	def TextBox7(self, new_state):
-		self._setter_access_tracker["TextBox7"] = {}
-		self._TextBox7 = TextBox(new_state)
-
-	@property
 	def DropdownMenu1(self):
 		self._getter_access_tracker["DropdownMenu1"] = {}
 		return self._DropdownMenu1
@@ -320,15 +310,6 @@ class Page:
 	def DropdownMenu1(self, new_state):
 		self._setter_access_tracker["DropdownMenu1"] = {}
 		self._DropdownMenu1 = DropdownMenu(new_state)
-
-	@property
-	def Flex3(self):
-		self._getter_access_tracker["Flex3"] = {}
-		return self._Flex3
-	@Flex3.setter
-	def Flex3(self, new_state):
-		self._setter_access_tracker["Flex3"] = {}
-		self._Flex3 = Flex(new_state)
 
 	@property
 	def TextBox8(self):
@@ -392,15 +373,6 @@ class Page:
 	def Flex4(self, new_state):
 		self._setter_access_tracker["Flex4"] = {}
 		self._Flex4 = Flex(new_state)
-
-	@property
-	def Anchor6(self):
-		self._getter_access_tracker["Anchor6"] = {}
-		return self._Anchor6
-	@Anchor6.setter
-	def Anchor6(self, new_state):
-		self._setter_access_tracker["Anchor6"] = {}
-		self._Anchor6 = Anchor(new_state)
 
 	@property
 	def Anchor7(self):
@@ -1645,15 +1617,6 @@ class Page:
 		self._TextBox114 = TextBox(new_state)
 
 	@property
-	def Image31(self):
-		self._getter_access_tracker["Image31"] = {}
-		return self._Image31
-	@Image31.setter
-	def Image31(self, new_state):
-		self._setter_access_tracker["Image31"] = {}
-		self._Image31 = Image(new_state)
-
-	@property
 	def Flex72(self):
 		self._getter_access_tracker["Flex72"] = {}
 		return self._Flex72
@@ -1724,6 +1687,33 @@ class Page:
 	def Anchor31(self, new_state):
 		self._setter_access_tracker["Anchor31"] = {}
 		self._Anchor31 = Anchor(new_state)
+
+	@property
+	def TextBox118(self):
+		self._getter_access_tracker["TextBox118"] = {}
+		return self._TextBox118
+	@TextBox118.setter
+	def TextBox118(self, new_state):
+		self._setter_access_tracker["TextBox118"] = {}
+		self._TextBox118 = TextBox(new_state)
+
+	@property
+	def Flex77(self):
+		self._getter_access_tracker["Flex77"] = {}
+		return self._Flex77
+	@Flex77.setter
+	def Flex77(self, new_state):
+		self._setter_access_tracker["Flex77"] = {}
+		self._Flex77 = Flex(new_state)
+
+	@property
+	def Anchor32(self):
+		self._getter_access_tracker["Anchor32"] = {}
+		return self._Anchor32
+	@Anchor32.setter
+	def Anchor32(self, new_state):
+		self._setter_access_tracker["Anchor32"] = {}
+		self._Anchor32 = Anchor(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -1739,9 +1729,7 @@ class Page:
 			"Anchor4": self._Anchor4,
 			"Anchor5": self._Anchor5,
 			"Flex2": self._Flex2,
-			"TextBox7": self._TextBox7,
 			"DropdownMenu1": self._DropdownMenu1,
-			"Flex3": self._Flex3,
 			"TextBox8": self._TextBox8,
 			"TextBox9": self._TextBox9,
 			"TextBox10": self._TextBox10,
@@ -1749,7 +1737,6 @@ class Page:
 			"TextBox12": self._TextBox12,
 			"Image1": self._Image1,
 			"Flex4": self._Flex4,
-			"Anchor6": self._Anchor6,
 			"Anchor7": self._Anchor7,
 			"Anchor8": self._Anchor8,
 			"Anchor9": self._Anchor9,
@@ -1888,7 +1875,6 @@ class Page:
 			"TextBox112": self._TextBox112,
 			"Flex70": self._Flex70,
 			"TextBox114": self._TextBox114,
-			"Image31": self._Image31,
 			"Flex72": self._Flex72,
 			"TextBox115": self._TextBox115,
 			"Flex73": self._Flex73,
@@ -1896,6 +1882,9 @@ class Page:
 			"Anchor30": self._Anchor30,
 			"TextBox116": self._TextBox116,
 			"Flex75": self._Flex75,
-			"Anchor31": self._Anchor31
+			"Anchor31": self._Anchor31,
+			"TextBox118": self._TextBox118,
+			"Flex77": self._Flex77,
+			"Anchor32": self._Anchor32
 			}
   

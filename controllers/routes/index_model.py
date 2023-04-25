@@ -3,7 +3,6 @@ from atri_react.Flex import Flex
 from atri_react.Image import Image
 from atri_react.TextBox import TextBox
 from atri_react.Anchor import Anchor
-from manifests.DropdownMenu import DropdownMenu
 from atri_react.Video import Video
 
 
@@ -20,7 +19,6 @@ class Page:
 		self.max_width = state["max_width"] if "max_width" in state else None
 		self.Flex7 = state["Flex7"] if "Flex7" in state else None
 		self.nav_mid = state["nav_mid"] if "nav_mid" in state else None
-		self.Flex9 = state["Flex9"] if "Flex9" in state else None
 		self.Image1 = state["Image1"] if "Image1" in state else None
 		self.TextBox2 = state["TextBox2"] if "TextBox2" in state else None
 		self.Anchor1 = state["Anchor1"] if "Anchor1" in state else None
@@ -32,9 +30,6 @@ class Page:
 		self.Anchor4 = state["Anchor4"] if "Anchor4" in state else None
 		self.TextBox7 = state["TextBox7"] if "TextBox7" in state else None
 		self.Anchor5 = state["Anchor5"] if "Anchor5" in state else None
-		self.Anchor6 = state["Anchor6"] if "Anchor6" in state else None
-		self.Flex10 = state["Flex10"] if "Flex10" in state else None
-		self.TextBox8 = state["TextBox8"] if "TextBox8" in state else None
 		self.row_1_hero = state["row_1_hero"] if "row_1_hero" in state else None
 		self.open_source = state["open_source"] if "open_source" in state else None
 		self.TextBox10 = state["TextBox10"] if "TextBox10" in state else None
@@ -96,19 +91,6 @@ class Page:
 		self.backed_by_wrapper = state["backed_by_wrapper"] if "backed_by_wrapper" in state else None
 		self.TextBox31 = state["TextBox31"] if "TextBox31" in state else None
 		self.Image11 = state["Image11"] if "Image11" in state else None
-		self.DropdownMenu1 = state["DropdownMenu1"] if "DropdownMenu1" in state else None
-		self.Flex40 = state["Flex40"] if "Flex40" in state else None
-		self.TextBox37 = state["TextBox37"] if "TextBox37" in state else None
-		self.Anchor26 = state["Anchor26"] if "Anchor26" in state else None
-		self.TextBox38 = state["TextBox38"] if "TextBox38" in state else None
-		self.Anchor27 = state["Anchor27"] if "Anchor27" in state else None
-		self.TextBox39 = state["TextBox39"] if "TextBox39" in state else None
-		self.Anchor28 = state["Anchor28"] if "Anchor28" in state else None
-		self.TextBox40 = state["TextBox40"] if "TextBox40" in state else None
-		self.Anchor29 = state["Anchor29"] if "Anchor29" in state else None
-		self.TextBox41 = state["TextBox41"] if "TextBox41" in state else None
-		self.Anchor30 = state["Anchor30"] if "Anchor30" in state else None
-		self.menu_wrapper = state["menu_wrapper"] if "menu_wrapper" in state else None
 		self.design_partner_main = state["design_partner_main"] if "design_partner_main" in state else None
 		self.TextBox42 = state["TextBox42"] if "TextBox42" in state else None
 		self.Anchor31 = state["Anchor31"] if "Anchor31" in state else None
@@ -121,6 +103,9 @@ class Page:
 		self.Flex45 = state["Flex45"] if "Flex45" in state else None
 		self.Anchor33 = state["Anchor33"] if "Anchor33" in state else None
 		self.HeroVideo = state["HeroVideo"] if "HeroVideo" in state else None
+		self.TextBox46 = state["TextBox46"] if "TextBox46" in state else None
+		self.Flex47 = state["Flex47"] if "Flex47" in state else None
+		self.Anchor35 = state["Anchor35"] if "Anchor35" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -196,15 +181,6 @@ class Page:
 	def nav_mid(self, new_state):
 		self._setter_access_tracker["nav_mid"] = {}
 		self._nav_mid = Flex(new_state)
-
-	@property
-	def Flex9(self):
-		self._getter_access_tracker["Flex9"] = {}
-		return self._Flex9
-	@Flex9.setter
-	def Flex9(self, new_state):
-		self._setter_access_tracker["Flex9"] = {}
-		self._Flex9 = Flex(new_state)
 
 	@property
 	def Image1(self):
@@ -304,33 +280,6 @@ class Page:
 	def Anchor5(self, new_state):
 		self._setter_access_tracker["Anchor5"] = {}
 		self._Anchor5 = Anchor(new_state)
-
-	@property
-	def Anchor6(self):
-		self._getter_access_tracker["Anchor6"] = {}
-		return self._Anchor6
-	@Anchor6.setter
-	def Anchor6(self, new_state):
-		self._setter_access_tracker["Anchor6"] = {}
-		self._Anchor6 = Anchor(new_state)
-
-	@property
-	def Flex10(self):
-		self._getter_access_tracker["Flex10"] = {}
-		return self._Flex10
-	@Flex10.setter
-	def Flex10(self, new_state):
-		self._setter_access_tracker["Flex10"] = {}
-		self._Flex10 = Flex(new_state)
-
-	@property
-	def TextBox8(self):
-		self._getter_access_tracker["TextBox8"] = {}
-		return self._TextBox8
-	@TextBox8.setter
-	def TextBox8(self, new_state):
-		self._setter_access_tracker["TextBox8"] = {}
-		self._TextBox8 = TextBox(new_state)
 
 	@property
 	def row_1_hero(self):
@@ -882,123 +831,6 @@ class Page:
 		self._Image11 = Image(new_state)
 
 	@property
-	def DropdownMenu1(self):
-		self._getter_access_tracker["DropdownMenu1"] = {}
-		return self._DropdownMenu1
-	@DropdownMenu1.setter
-	def DropdownMenu1(self, new_state):
-		self._setter_access_tracker["DropdownMenu1"] = {}
-		self._DropdownMenu1 = DropdownMenu(new_state)
-
-	@property
-	def Flex40(self):
-		self._getter_access_tracker["Flex40"] = {}
-		return self._Flex40
-	@Flex40.setter
-	def Flex40(self, new_state):
-		self._setter_access_tracker["Flex40"] = {}
-		self._Flex40 = Flex(new_state)
-
-	@property
-	def TextBox37(self):
-		self._getter_access_tracker["TextBox37"] = {}
-		return self._TextBox37
-	@TextBox37.setter
-	def TextBox37(self, new_state):
-		self._setter_access_tracker["TextBox37"] = {}
-		self._TextBox37 = TextBox(new_state)
-
-	@property
-	def Anchor26(self):
-		self._getter_access_tracker["Anchor26"] = {}
-		return self._Anchor26
-	@Anchor26.setter
-	def Anchor26(self, new_state):
-		self._setter_access_tracker["Anchor26"] = {}
-		self._Anchor26 = Anchor(new_state)
-
-	@property
-	def TextBox38(self):
-		self._getter_access_tracker["TextBox38"] = {}
-		return self._TextBox38
-	@TextBox38.setter
-	def TextBox38(self, new_state):
-		self._setter_access_tracker["TextBox38"] = {}
-		self._TextBox38 = TextBox(new_state)
-
-	@property
-	def Anchor27(self):
-		self._getter_access_tracker["Anchor27"] = {}
-		return self._Anchor27
-	@Anchor27.setter
-	def Anchor27(self, new_state):
-		self._setter_access_tracker["Anchor27"] = {}
-		self._Anchor27 = Anchor(new_state)
-
-	@property
-	def TextBox39(self):
-		self._getter_access_tracker["TextBox39"] = {}
-		return self._TextBox39
-	@TextBox39.setter
-	def TextBox39(self, new_state):
-		self._setter_access_tracker["TextBox39"] = {}
-		self._TextBox39 = TextBox(new_state)
-
-	@property
-	def Anchor28(self):
-		self._getter_access_tracker["Anchor28"] = {}
-		return self._Anchor28
-	@Anchor28.setter
-	def Anchor28(self, new_state):
-		self._setter_access_tracker["Anchor28"] = {}
-		self._Anchor28 = Anchor(new_state)
-
-	@property
-	def TextBox40(self):
-		self._getter_access_tracker["TextBox40"] = {}
-		return self._TextBox40
-	@TextBox40.setter
-	def TextBox40(self, new_state):
-		self._setter_access_tracker["TextBox40"] = {}
-		self._TextBox40 = TextBox(new_state)
-
-	@property
-	def Anchor29(self):
-		self._getter_access_tracker["Anchor29"] = {}
-		return self._Anchor29
-	@Anchor29.setter
-	def Anchor29(self, new_state):
-		self._setter_access_tracker["Anchor29"] = {}
-		self._Anchor29 = Anchor(new_state)
-
-	@property
-	def TextBox41(self):
-		self._getter_access_tracker["TextBox41"] = {}
-		return self._TextBox41
-	@TextBox41.setter
-	def TextBox41(self, new_state):
-		self._setter_access_tracker["TextBox41"] = {}
-		self._TextBox41 = TextBox(new_state)
-
-	@property
-	def Anchor30(self):
-		self._getter_access_tracker["Anchor30"] = {}
-		return self._Anchor30
-	@Anchor30.setter
-	def Anchor30(self, new_state):
-		self._setter_access_tracker["Anchor30"] = {}
-		self._Anchor30 = Anchor(new_state)
-
-	@property
-	def menu_wrapper(self):
-		self._getter_access_tracker["menu_wrapper"] = {}
-		return self._menu_wrapper
-	@menu_wrapper.setter
-	def menu_wrapper(self, new_state):
-		self._setter_access_tracker["menu_wrapper"] = {}
-		self._menu_wrapper = Flex(new_state)
-
-	@property
 	def design_partner_main(self):
 		self._getter_access_tracker["design_partner_main"] = {}
 		return self._design_partner_main
@@ -1105,6 +937,33 @@ class Page:
 	def HeroVideo(self, new_state):
 		self._setter_access_tracker["HeroVideo"] = {}
 		self._HeroVideo = Video(new_state)
+
+	@property
+	def TextBox46(self):
+		self._getter_access_tracker["TextBox46"] = {}
+		return self._TextBox46
+	@TextBox46.setter
+	def TextBox46(self, new_state):
+		self._setter_access_tracker["TextBox46"] = {}
+		self._TextBox46 = TextBox(new_state)
+
+	@property
+	def Flex47(self):
+		self._getter_access_tracker["Flex47"] = {}
+		return self._Flex47
+	@Flex47.setter
+	def Flex47(self, new_state):
+		self._setter_access_tracker["Flex47"] = {}
+		self._Flex47 = Flex(new_state)
+
+	@property
+	def Anchor35(self):
+		self._getter_access_tracker["Anchor35"] = {}
+		return self._Anchor35
+	@Anchor35.setter
+	def Anchor35(self, new_state):
+		self._setter_access_tracker["Anchor35"] = {}
+		self._Anchor35 = Anchor(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -1115,7 +974,6 @@ class Page:
 			"max_width": self._max_width,
 			"Flex7": self._Flex7,
 			"nav_mid": self._nav_mid,
-			"Flex9": self._Flex9,
 			"Image1": self._Image1,
 			"TextBox2": self._TextBox2,
 			"Anchor1": self._Anchor1,
@@ -1127,9 +985,6 @@ class Page:
 			"Anchor4": self._Anchor4,
 			"TextBox7": self._TextBox7,
 			"Anchor5": self._Anchor5,
-			"Anchor6": self._Anchor6,
-			"Flex10": self._Flex10,
-			"TextBox8": self._TextBox8,
 			"row_1_hero": self._row_1_hero,
 			"open_source": self._open_source,
 			"TextBox10": self._TextBox10,
@@ -1191,19 +1046,6 @@ class Page:
 			"backed_by_wrapper": self._backed_by_wrapper,
 			"TextBox31": self._TextBox31,
 			"Image11": self._Image11,
-			"DropdownMenu1": self._DropdownMenu1,
-			"Flex40": self._Flex40,
-			"TextBox37": self._TextBox37,
-			"Anchor26": self._Anchor26,
-			"TextBox38": self._TextBox38,
-			"Anchor27": self._Anchor27,
-			"TextBox39": self._TextBox39,
-			"Anchor28": self._Anchor28,
-			"TextBox40": self._TextBox40,
-			"Anchor29": self._Anchor29,
-			"TextBox41": self._TextBox41,
-			"Anchor30": self._Anchor30,
-			"menu_wrapper": self._menu_wrapper,
 			"design_partner_main": self._design_partner_main,
 			"TextBox42": self._TextBox42,
 			"Anchor31": self._Anchor31,
@@ -1215,6 +1057,9 @@ class Page:
 			"TextBox44": self._TextBox44,
 			"Flex45": self._Flex45,
 			"Anchor33": self._Anchor33,
-			"HeroVideo": self._HeroVideo
+			"HeroVideo": self._HeroVideo,
+			"TextBox46": self._TextBox46,
+			"Flex47": self._Flex47,
+			"Anchor35": self._Anchor35
 			}
   
