@@ -47724,5 +47724,131 @@
       }
     },
     "id": "ee779843-b464-4621-93a4-85d84d49f9a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": ""
+        }
+      }
+    },
+    "id": "9f5db5be-b5f4-49dc-9c11-99b6f63b000c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://docs.atrilabs.com/"
+        }
+      }
+    },
+    "id": "9f5db5be-b5f4-49dc-9c11-99b6f63b000c"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": ""
+        }
+      }
+    },
+    "id": "7d1ba39d-096b-40b2-aa59-5ab4c2116e29"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://docs.atrilabs.com/blog"
+        }
+      }
+    },
+    "id": "7d1ba39d-096b-40b2-aa59-5ab4c2116e29"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": ""
+        }
+      }
+    },
+    "id": "f6272ea3-043f-4303-a979-6ab525bfff00"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://docs.atrilabs.com/tutorials/bkg_swapper"
+        }
+      }
+    },
+    "id": "f6272ea3-043f-4303-a979-6ab525bfff00"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://github.com/Atri-Labs/atrilabs-engine/blob/main/CONTRIBUTING.md"
+        }
+      }
+    },
+    "id": "cb0e021b-fca6-4e13-a93c-6a9c4f8142ff"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://github.com/Atri-Labs/atrilabs-engine/discussions"
+        }
+      }
+    },
+    "id": "ff2b7d0b-19fc-424c-9b75-08ce502ef0af"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/src/customPropsTree",
+    "slice": {
+      "property": {
+        "custom": {
+          "referrerPolicy": "no-referrer-when-downgrade",
+          "target": "_self",
+          "disabled": false,
+          "href": "https://github.com/Atri-Labs/conferences"
+        }
+      }
+    },
+    "id": "af04a101-2206-4e8d-b691-51fc1e0c15e8"
   }
 ]

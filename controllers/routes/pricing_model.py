@@ -49,14 +49,6 @@ class Page:
 		self.TextBox13 = state["TextBox13"] if "TextBox13" in state else None
 		self.TextBox14 = state["TextBox14"] if "TextBox14" in state else None
 		self.Flex15 = state["Flex15"] if "Flex15" in state else None
-		self.TextBox70 = state["TextBox70"] if "TextBox70" in state else None
-		self.TextBox71 = state["TextBox71"] if "TextBox71" in state else None
-		self.TextBox72 = state["TextBox72"] if "TextBox72" in state else None
-		self.TextBox73 = state["TextBox73"] if "TextBox73" in state else None
-		self.TextBox74 = state["TextBox74"] if "TextBox74" in state else None
-		self.TextBox75 = state["TextBox75"] if "TextBox75" in state else None
-		self.TextBox76 = state["TextBox76"] if "TextBox76" in state else None
-		self.TextBox77 = state["TextBox77"] if "TextBox77" in state else None
 		self.Image2 = state["Image2"] if "Image2" in state else None
 		self.Image3 = state["Image3"] if "Image3" in state else None
 		self.Image4 = state["Image4"] if "Image4" in state else None
@@ -64,18 +56,6 @@ class Page:
 		self.Image6 = state["Image6"] if "Image6" in state else None
 		self.TextBox78 = state["TextBox78"] if "TextBox78" in state else None
 		self.Image7 = state["Image7"] if "Image7" in state else None
-		self.TextBox79 = state["TextBox79"] if "TextBox79" in state else None
-		self.Anchor13 = state["Anchor13"] if "Anchor13" in state else None
-		self.TextBox80 = state["TextBox80"] if "TextBox80" in state else None
-		self.Anchor14 = state["Anchor14"] if "Anchor14" in state else None
-		self.Anchor15 = state["Anchor15"] if "Anchor15" in state else None
-		self.Anchor16 = state["Anchor16"] if "Anchor16" in state else None
-		self.TextBox81 = state["TextBox81"] if "TextBox81" in state else None
-		self.Anchor17 = state["Anchor17"] if "Anchor17" in state else None
-		self.Anchor18 = state["Anchor18"] if "Anchor18" in state else None
-		self.Anchor19 = state["Anchor19"] if "Anchor19" in state else None
-		self.Anchor20 = state["Anchor20"] if "Anchor20" in state else None
-		self.TextBox82 = state["TextBox82"] if "TextBox82" in state else None
 		self.Flex28 = state["Flex28"] if "Flex28" in state else None
 		self.Flex29 = state["Flex29"] if "Flex29" in state else None
 		self.Flex30 = state["Flex30"] if "Flex30" in state else None
@@ -83,10 +63,6 @@ class Page:
 		self.Flex32 = state["Flex32"] if "Flex32" in state else None
 		self.Flex33 = state["Flex33"] if "Flex33" in state else None
 		self.Image8 = state["Image8"] if "Image8" in state else None
-		self.Flex34 = state["Flex34"] if "Flex34" in state else None
-		self.Flex35 = state["Flex35"] if "Flex35" in state else None
-		self.Flex36 = state["Flex36"] if "Flex36" in state else None
-		self.Flex37 = state["Flex37"] if "Flex37" in state else None
 		self.Anchor21 = state["Anchor21"] if "Anchor21" in state else None
 		self.Anchor22 = state["Anchor22"] if "Anchor22" in state else None
 		self.Anchor23 = state["Anchor23"] if "Anchor23" in state else None
@@ -94,12 +70,10 @@ class Page:
 		self.Anchor25 = state["Anchor25"] if "Anchor25" in state else None
 		self.Anchor26 = state["Anchor26"] if "Anchor26" in state else None
 		self.Anchor27 = state["Anchor27"] if "Anchor27" in state else None
-		self.Flex38 = state["Flex38"] if "Flex38" in state else None
 		self.Flex39 = state["Flex39"] if "Flex39" in state else None
 		self.Flex40 = state["Flex40"] if "Flex40" in state else None
 		self.TextBox83 = state["TextBox83"] if "TextBox83" in state else None
 		self.Image9 = state["Image9"] if "Image9" in state else None
-		self.Flex41 = state["Flex41"] if "Flex41" in state else None
 		self.Flex42 = state["Flex42"] if "Flex42" in state else None
 		self.Flex43 = state["Flex43"] if "Flex43" in state else None
 		self.Flex44 = state["Flex44"] if "Flex44" in state else None
@@ -181,6 +155,31 @@ class Page:
 		self.TextBox118 = state["TextBox118"] if "TextBox118" in state else None
 		self.Flex77 = state["Flex77"] if "Flex77" in state else None
 		self.Anchor32 = state["Anchor32"] if "Anchor32" in state else None
+		self.TextBox131 = state["TextBox131"] if "TextBox131" in state else None
+		self.TextBox132 = state["TextBox132"] if "TextBox132" in state else None
+		self.TextBox133 = state["TextBox133"] if "TextBox133" in state else None
+		self.TextBox134 = state["TextBox134"] if "TextBox134" in state else None
+		self.TextBox135 = state["TextBox135"] if "TextBox135" in state else None
+		self.TextBox136 = state["TextBox136"] if "TextBox136" in state else None
+		self.TextBox137 = state["TextBox137"] if "TextBox137" in state else None
+		self.TextBox138 = state["TextBox138"] if "TextBox138" in state else None
+		self.TextBox139 = state["TextBox139"] if "TextBox139" in state else None
+		self.Anchor41 = state["Anchor41"] if "Anchor41" in state else None
+		self.TextBox140 = state["TextBox140"] if "TextBox140" in state else None
+		self.Anchor42 = state["Anchor42"] if "Anchor42" in state else None
+		self.Anchor43 = state["Anchor43"] if "Anchor43" in state else None
+		self.Anchor44 = state["Anchor44"] if "Anchor44" in state else None
+		self.TextBox141 = state["TextBox141"] if "TextBox141" in state else None
+		self.Anchor45 = state["Anchor45"] if "Anchor45" in state else None
+		self.Anchor46 = state["Anchor46"] if "Anchor46" in state else None
+		self.Anchor47 = state["Anchor47"] if "Anchor47" in state else None
+		self.Anchor48 = state["Anchor48"] if "Anchor48" in state else None
+		self.TextBox142 = state["TextBox142"] if "TextBox142" in state else None
+		self.Flex83 = state["Flex83"] if "Flex83" in state else None
+		self.Flex84 = state["Flex84"] if "Flex84" in state else None
+		self.Flex85 = state["Flex85"] if "Flex85" in state else None
+		self.Flex86 = state["Flex86"] if "Flex86" in state else None
+		self.Flex87 = state["Flex87"] if "Flex87" in state else None
 		self._setter_access_tracker = {}
 		self._getter_access_tracker = {}
   
@@ -528,78 +527,6 @@ class Page:
 		self._Flex15 = Flex(new_state)
 
 	@property
-	def TextBox70(self):
-		self._getter_access_tracker["TextBox70"] = {}
-		return self._TextBox70
-	@TextBox70.setter
-	def TextBox70(self, new_state):
-		self._setter_access_tracker["TextBox70"] = {}
-		self._TextBox70 = TextBox(new_state)
-
-	@property
-	def TextBox71(self):
-		self._getter_access_tracker["TextBox71"] = {}
-		return self._TextBox71
-	@TextBox71.setter
-	def TextBox71(self, new_state):
-		self._setter_access_tracker["TextBox71"] = {}
-		self._TextBox71 = TextBox(new_state)
-
-	@property
-	def TextBox72(self):
-		self._getter_access_tracker["TextBox72"] = {}
-		return self._TextBox72
-	@TextBox72.setter
-	def TextBox72(self, new_state):
-		self._setter_access_tracker["TextBox72"] = {}
-		self._TextBox72 = TextBox(new_state)
-
-	@property
-	def TextBox73(self):
-		self._getter_access_tracker["TextBox73"] = {}
-		return self._TextBox73
-	@TextBox73.setter
-	def TextBox73(self, new_state):
-		self._setter_access_tracker["TextBox73"] = {}
-		self._TextBox73 = TextBox(new_state)
-
-	@property
-	def TextBox74(self):
-		self._getter_access_tracker["TextBox74"] = {}
-		return self._TextBox74
-	@TextBox74.setter
-	def TextBox74(self, new_state):
-		self._setter_access_tracker["TextBox74"] = {}
-		self._TextBox74 = TextBox(new_state)
-
-	@property
-	def TextBox75(self):
-		self._getter_access_tracker["TextBox75"] = {}
-		return self._TextBox75
-	@TextBox75.setter
-	def TextBox75(self, new_state):
-		self._setter_access_tracker["TextBox75"] = {}
-		self._TextBox75 = TextBox(new_state)
-
-	@property
-	def TextBox76(self):
-		self._getter_access_tracker["TextBox76"] = {}
-		return self._TextBox76
-	@TextBox76.setter
-	def TextBox76(self, new_state):
-		self._setter_access_tracker["TextBox76"] = {}
-		self._TextBox76 = TextBox(new_state)
-
-	@property
-	def TextBox77(self):
-		self._getter_access_tracker["TextBox77"] = {}
-		return self._TextBox77
-	@TextBox77.setter
-	def TextBox77(self, new_state):
-		self._setter_access_tracker["TextBox77"] = {}
-		self._TextBox77 = TextBox(new_state)
-
-	@property
 	def Image2(self):
 		self._getter_access_tracker["Image2"] = {}
 		return self._Image2
@@ -661,114 +588,6 @@ class Page:
 	def Image7(self, new_state):
 		self._setter_access_tracker["Image7"] = {}
 		self._Image7 = Image(new_state)
-
-	@property
-	def TextBox79(self):
-		self._getter_access_tracker["TextBox79"] = {}
-		return self._TextBox79
-	@TextBox79.setter
-	def TextBox79(self, new_state):
-		self._setter_access_tracker["TextBox79"] = {}
-		self._TextBox79 = TextBox(new_state)
-
-	@property
-	def Anchor13(self):
-		self._getter_access_tracker["Anchor13"] = {}
-		return self._Anchor13
-	@Anchor13.setter
-	def Anchor13(self, new_state):
-		self._setter_access_tracker["Anchor13"] = {}
-		self._Anchor13 = Anchor(new_state)
-
-	@property
-	def TextBox80(self):
-		self._getter_access_tracker["TextBox80"] = {}
-		return self._TextBox80
-	@TextBox80.setter
-	def TextBox80(self, new_state):
-		self._setter_access_tracker["TextBox80"] = {}
-		self._TextBox80 = TextBox(new_state)
-
-	@property
-	def Anchor14(self):
-		self._getter_access_tracker["Anchor14"] = {}
-		return self._Anchor14
-	@Anchor14.setter
-	def Anchor14(self, new_state):
-		self._setter_access_tracker["Anchor14"] = {}
-		self._Anchor14 = Anchor(new_state)
-
-	@property
-	def Anchor15(self):
-		self._getter_access_tracker["Anchor15"] = {}
-		return self._Anchor15
-	@Anchor15.setter
-	def Anchor15(self, new_state):
-		self._setter_access_tracker["Anchor15"] = {}
-		self._Anchor15 = Anchor(new_state)
-
-	@property
-	def Anchor16(self):
-		self._getter_access_tracker["Anchor16"] = {}
-		return self._Anchor16
-	@Anchor16.setter
-	def Anchor16(self, new_state):
-		self._setter_access_tracker["Anchor16"] = {}
-		self._Anchor16 = Anchor(new_state)
-
-	@property
-	def TextBox81(self):
-		self._getter_access_tracker["TextBox81"] = {}
-		return self._TextBox81
-	@TextBox81.setter
-	def TextBox81(self, new_state):
-		self._setter_access_tracker["TextBox81"] = {}
-		self._TextBox81 = TextBox(new_state)
-
-	@property
-	def Anchor17(self):
-		self._getter_access_tracker["Anchor17"] = {}
-		return self._Anchor17
-	@Anchor17.setter
-	def Anchor17(self, new_state):
-		self._setter_access_tracker["Anchor17"] = {}
-		self._Anchor17 = Anchor(new_state)
-
-	@property
-	def Anchor18(self):
-		self._getter_access_tracker["Anchor18"] = {}
-		return self._Anchor18
-	@Anchor18.setter
-	def Anchor18(self, new_state):
-		self._setter_access_tracker["Anchor18"] = {}
-		self._Anchor18 = Anchor(new_state)
-
-	@property
-	def Anchor19(self):
-		self._getter_access_tracker["Anchor19"] = {}
-		return self._Anchor19
-	@Anchor19.setter
-	def Anchor19(self, new_state):
-		self._setter_access_tracker["Anchor19"] = {}
-		self._Anchor19 = Anchor(new_state)
-
-	@property
-	def Anchor20(self):
-		self._getter_access_tracker["Anchor20"] = {}
-		return self._Anchor20
-	@Anchor20.setter
-	def Anchor20(self, new_state):
-		self._setter_access_tracker["Anchor20"] = {}
-		self._Anchor20 = Anchor(new_state)
-
-	@property
-	def TextBox82(self):
-		self._getter_access_tracker["TextBox82"] = {}
-		return self._TextBox82
-	@TextBox82.setter
-	def TextBox82(self, new_state):
-		self._setter_access_tracker["TextBox82"] = {}
-		self._TextBox82 = TextBox(new_state)
 
 	@property
 	def Flex28(self):
@@ -834,42 +653,6 @@ class Page:
 		self._Image8 = Image(new_state)
 
 	@property
-	def Flex34(self):
-		self._getter_access_tracker["Flex34"] = {}
-		return self._Flex34
-	@Flex34.setter
-	def Flex34(self, new_state):
-		self._setter_access_tracker["Flex34"] = {}
-		self._Flex34 = Flex(new_state)
-
-	@property
-	def Flex35(self):
-		self._getter_access_tracker["Flex35"] = {}
-		return self._Flex35
-	@Flex35.setter
-	def Flex35(self, new_state):
-		self._setter_access_tracker["Flex35"] = {}
-		self._Flex35 = Flex(new_state)
-
-	@property
-	def Flex36(self):
-		self._getter_access_tracker["Flex36"] = {}
-		return self._Flex36
-	@Flex36.setter
-	def Flex36(self, new_state):
-		self._setter_access_tracker["Flex36"] = {}
-		self._Flex36 = Flex(new_state)
-
-	@property
-	def Flex37(self):
-		self._getter_access_tracker["Flex37"] = {}
-		return self._Flex37
-	@Flex37.setter
-	def Flex37(self, new_state):
-		self._setter_access_tracker["Flex37"] = {}
-		self._Flex37 = Flex(new_state)
-
-	@property
 	def Anchor21(self):
 		self._getter_access_tracker["Anchor21"] = {}
 		return self._Anchor21
@@ -933,15 +716,6 @@ class Page:
 		self._Anchor27 = Anchor(new_state)
 
 	@property
-	def Flex38(self):
-		self._getter_access_tracker["Flex38"] = {}
-		return self._Flex38
-	@Flex38.setter
-	def Flex38(self, new_state):
-		self._setter_access_tracker["Flex38"] = {}
-		self._Flex38 = Flex(new_state)
-
-	@property
 	def Flex39(self):
 		self._getter_access_tracker["Flex39"] = {}
 		return self._Flex39
@@ -976,15 +750,6 @@ class Page:
 	def Image9(self, new_state):
 		self._setter_access_tracker["Image9"] = {}
 		self._Image9 = Image(new_state)
-
-	@property
-	def Flex41(self):
-		self._getter_access_tracker["Flex41"] = {}
-		return self._Flex41
-	@Flex41.setter
-	def Flex41(self, new_state):
-		self._setter_access_tracker["Flex41"] = {}
-		self._Flex41 = Flex(new_state)
 
 	@property
 	def Flex42(self):
@@ -1714,6 +1479,231 @@ class Page:
 	def Anchor32(self, new_state):
 		self._setter_access_tracker["Anchor32"] = {}
 		self._Anchor32 = Anchor(new_state)
+
+	@property
+	def TextBox131(self):
+		self._getter_access_tracker["TextBox131"] = {}
+		return self._TextBox131
+	@TextBox131.setter
+	def TextBox131(self, new_state):
+		self._setter_access_tracker["TextBox131"] = {}
+		self._TextBox131 = TextBox(new_state)
+
+	@property
+	def TextBox132(self):
+		self._getter_access_tracker["TextBox132"] = {}
+		return self._TextBox132
+	@TextBox132.setter
+	def TextBox132(self, new_state):
+		self._setter_access_tracker["TextBox132"] = {}
+		self._TextBox132 = TextBox(new_state)
+
+	@property
+	def TextBox133(self):
+		self._getter_access_tracker["TextBox133"] = {}
+		return self._TextBox133
+	@TextBox133.setter
+	def TextBox133(self, new_state):
+		self._setter_access_tracker["TextBox133"] = {}
+		self._TextBox133 = TextBox(new_state)
+
+	@property
+	def TextBox134(self):
+		self._getter_access_tracker["TextBox134"] = {}
+		return self._TextBox134
+	@TextBox134.setter
+	def TextBox134(self, new_state):
+		self._setter_access_tracker["TextBox134"] = {}
+		self._TextBox134 = TextBox(new_state)
+
+	@property
+	def TextBox135(self):
+		self._getter_access_tracker["TextBox135"] = {}
+		return self._TextBox135
+	@TextBox135.setter
+	def TextBox135(self, new_state):
+		self._setter_access_tracker["TextBox135"] = {}
+		self._TextBox135 = TextBox(new_state)
+
+	@property
+	def TextBox136(self):
+		self._getter_access_tracker["TextBox136"] = {}
+		return self._TextBox136
+	@TextBox136.setter
+	def TextBox136(self, new_state):
+		self._setter_access_tracker["TextBox136"] = {}
+		self._TextBox136 = TextBox(new_state)
+
+	@property
+	def TextBox137(self):
+		self._getter_access_tracker["TextBox137"] = {}
+		return self._TextBox137
+	@TextBox137.setter
+	def TextBox137(self, new_state):
+		self._setter_access_tracker["TextBox137"] = {}
+		self._TextBox137 = TextBox(new_state)
+
+	@property
+	def TextBox138(self):
+		self._getter_access_tracker["TextBox138"] = {}
+		return self._TextBox138
+	@TextBox138.setter
+	def TextBox138(self, new_state):
+		self._setter_access_tracker["TextBox138"] = {}
+		self._TextBox138 = TextBox(new_state)
+
+	@property
+	def TextBox139(self):
+		self._getter_access_tracker["TextBox139"] = {}
+		return self._TextBox139
+	@TextBox139.setter
+	def TextBox139(self, new_state):
+		self._setter_access_tracker["TextBox139"] = {}
+		self._TextBox139 = TextBox(new_state)
+
+	@property
+	def Anchor41(self):
+		self._getter_access_tracker["Anchor41"] = {}
+		return self._Anchor41
+	@Anchor41.setter
+	def Anchor41(self, new_state):
+		self._setter_access_tracker["Anchor41"] = {}
+		self._Anchor41 = Anchor(new_state)
+
+	@property
+	def TextBox140(self):
+		self._getter_access_tracker["TextBox140"] = {}
+		return self._TextBox140
+	@TextBox140.setter
+	def TextBox140(self, new_state):
+		self._setter_access_tracker["TextBox140"] = {}
+		self._TextBox140 = TextBox(new_state)
+
+	@property
+	def Anchor42(self):
+		self._getter_access_tracker["Anchor42"] = {}
+		return self._Anchor42
+	@Anchor42.setter
+	def Anchor42(self, new_state):
+		self._setter_access_tracker["Anchor42"] = {}
+		self._Anchor42 = Anchor(new_state)
+
+	@property
+	def Anchor43(self):
+		self._getter_access_tracker["Anchor43"] = {}
+		return self._Anchor43
+	@Anchor43.setter
+	def Anchor43(self, new_state):
+		self._setter_access_tracker["Anchor43"] = {}
+		self._Anchor43 = Anchor(new_state)
+
+	@property
+	def Anchor44(self):
+		self._getter_access_tracker["Anchor44"] = {}
+		return self._Anchor44
+	@Anchor44.setter
+	def Anchor44(self, new_state):
+		self._setter_access_tracker["Anchor44"] = {}
+		self._Anchor44 = Anchor(new_state)
+
+	@property
+	def TextBox141(self):
+		self._getter_access_tracker["TextBox141"] = {}
+		return self._TextBox141
+	@TextBox141.setter
+	def TextBox141(self, new_state):
+		self._setter_access_tracker["TextBox141"] = {}
+		self._TextBox141 = TextBox(new_state)
+
+	@property
+	def Anchor45(self):
+		self._getter_access_tracker["Anchor45"] = {}
+		return self._Anchor45
+	@Anchor45.setter
+	def Anchor45(self, new_state):
+		self._setter_access_tracker["Anchor45"] = {}
+		self._Anchor45 = Anchor(new_state)
+
+	@property
+	def Anchor46(self):
+		self._getter_access_tracker["Anchor46"] = {}
+		return self._Anchor46
+	@Anchor46.setter
+	def Anchor46(self, new_state):
+		self._setter_access_tracker["Anchor46"] = {}
+		self._Anchor46 = Anchor(new_state)
+
+	@property
+	def Anchor47(self):
+		self._getter_access_tracker["Anchor47"] = {}
+		return self._Anchor47
+	@Anchor47.setter
+	def Anchor47(self, new_state):
+		self._setter_access_tracker["Anchor47"] = {}
+		self._Anchor47 = Anchor(new_state)
+
+	@property
+	def Anchor48(self):
+		self._getter_access_tracker["Anchor48"] = {}
+		return self._Anchor48
+	@Anchor48.setter
+	def Anchor48(self, new_state):
+		self._setter_access_tracker["Anchor48"] = {}
+		self._Anchor48 = Anchor(new_state)
+
+	@property
+	def TextBox142(self):
+		self._getter_access_tracker["TextBox142"] = {}
+		return self._TextBox142
+	@TextBox142.setter
+	def TextBox142(self, new_state):
+		self._setter_access_tracker["TextBox142"] = {}
+		self._TextBox142 = TextBox(new_state)
+
+	@property
+	def Flex83(self):
+		self._getter_access_tracker["Flex83"] = {}
+		return self._Flex83
+	@Flex83.setter
+	def Flex83(self, new_state):
+		self._setter_access_tracker["Flex83"] = {}
+		self._Flex83 = Flex(new_state)
+
+	@property
+	def Flex84(self):
+		self._getter_access_tracker["Flex84"] = {}
+		return self._Flex84
+	@Flex84.setter
+	def Flex84(self, new_state):
+		self._setter_access_tracker["Flex84"] = {}
+		self._Flex84 = Flex(new_state)
+
+	@property
+	def Flex85(self):
+		self._getter_access_tracker["Flex85"] = {}
+		return self._Flex85
+	@Flex85.setter
+	def Flex85(self, new_state):
+		self._setter_access_tracker["Flex85"] = {}
+		self._Flex85 = Flex(new_state)
+
+	@property
+	def Flex86(self):
+		self._getter_access_tracker["Flex86"] = {}
+		return self._Flex86
+	@Flex86.setter
+	def Flex86(self, new_state):
+		self._setter_access_tracker["Flex86"] = {}
+		self._Flex86 = Flex(new_state)
+
+	@property
+	def Flex87(self):
+		self._getter_access_tracker["Flex87"] = {}
+		return self._Flex87
+	@Flex87.setter
+	def Flex87(self, new_state):
+		self._setter_access_tracker["Flex87"] = {}
+		self._Flex87 = Flex(new_state)
   
 	def _to_json_fields(self):
 		return {
@@ -1754,14 +1744,6 @@ class Page:
 			"TextBox13": self._TextBox13,
 			"TextBox14": self._TextBox14,
 			"Flex15": self._Flex15,
-			"TextBox70": self._TextBox70,
-			"TextBox71": self._TextBox71,
-			"TextBox72": self._TextBox72,
-			"TextBox73": self._TextBox73,
-			"TextBox74": self._TextBox74,
-			"TextBox75": self._TextBox75,
-			"TextBox76": self._TextBox76,
-			"TextBox77": self._TextBox77,
 			"Image2": self._Image2,
 			"Image3": self._Image3,
 			"Image4": self._Image4,
@@ -1769,18 +1751,6 @@ class Page:
 			"Image6": self._Image6,
 			"TextBox78": self._TextBox78,
 			"Image7": self._Image7,
-			"TextBox79": self._TextBox79,
-			"Anchor13": self._Anchor13,
-			"TextBox80": self._TextBox80,
-			"Anchor14": self._Anchor14,
-			"Anchor15": self._Anchor15,
-			"Anchor16": self._Anchor16,
-			"TextBox81": self._TextBox81,
-			"Anchor17": self._Anchor17,
-			"Anchor18": self._Anchor18,
-			"Anchor19": self._Anchor19,
-			"Anchor20": self._Anchor20,
-			"TextBox82": self._TextBox82,
 			"Flex28": self._Flex28,
 			"Flex29": self._Flex29,
 			"Flex30": self._Flex30,
@@ -1788,10 +1758,6 @@ class Page:
 			"Flex32": self._Flex32,
 			"Flex33": self._Flex33,
 			"Image8": self._Image8,
-			"Flex34": self._Flex34,
-			"Flex35": self._Flex35,
-			"Flex36": self._Flex36,
-			"Flex37": self._Flex37,
 			"Anchor21": self._Anchor21,
 			"Anchor22": self._Anchor22,
 			"Anchor23": self._Anchor23,
@@ -1799,12 +1765,10 @@ class Page:
 			"Anchor25": self._Anchor25,
 			"Anchor26": self._Anchor26,
 			"Anchor27": self._Anchor27,
-			"Flex38": self._Flex38,
 			"Flex39": self._Flex39,
 			"Flex40": self._Flex40,
 			"TextBox83": self._TextBox83,
 			"Image9": self._Image9,
-			"Flex41": self._Flex41,
 			"Flex42": self._Flex42,
 			"Flex43": self._Flex43,
 			"Flex44": self._Flex44,
@@ -1885,6 +1849,31 @@ class Page:
 			"Anchor31": self._Anchor31,
 			"TextBox118": self._TextBox118,
 			"Flex77": self._Flex77,
-			"Anchor32": self._Anchor32
+			"Anchor32": self._Anchor32,
+			"TextBox131": self._TextBox131,
+			"TextBox132": self._TextBox132,
+			"TextBox133": self._TextBox133,
+			"TextBox134": self._TextBox134,
+			"TextBox135": self._TextBox135,
+			"TextBox136": self._TextBox136,
+			"TextBox137": self._TextBox137,
+			"TextBox138": self._TextBox138,
+			"TextBox139": self._TextBox139,
+			"Anchor41": self._Anchor41,
+			"TextBox140": self._TextBox140,
+			"Anchor42": self._Anchor42,
+			"Anchor43": self._Anchor43,
+			"Anchor44": self._Anchor44,
+			"TextBox141": self._TextBox141,
+			"Anchor45": self._Anchor45,
+			"Anchor46": self._Anchor46,
+			"Anchor47": self._Anchor47,
+			"Anchor48": self._Anchor48,
+			"TextBox142": self._TextBox142,
+			"Flex83": self._Flex83,
+			"Flex84": self._Flex84,
+			"Flex85": self._Flex85,
+			"Flex86": self._Flex86,
+			"Flex87": self._Flex87
 			}
   
