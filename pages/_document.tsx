@@ -11,7 +11,7 @@ export default function Document() {
 					name="viewport"
 					content="width=device-width, initial-scale=1"
 				></meta>
-				<title>Atri Labs</title>
+				<title>Atri TEST Labs</title>
 				<AtriScripts />
 			</head>
 			<body>
